@@ -1,3 +1,34 @@
+# Expense Tracker :money_with_wings:
+
+Welcome to the Expense Tracker project! This application is built using React.js and React Hooks. It demonstrates my proficiency in React.js, component-based architecture, and user-friendly design. :computer:
+
+## Features :sparkles:
+
+- **Viewing Income/Expenses**: Keep track of your income and expenses with a simple, intuitive interface. :chart_with_upwards_trend:
+- **Displaying Balance**: Always stay updated with your financial status with the balance display feature. :balance_scale:
+- **Adding Transactions**: Add new transactions easily via a modal view. :heavy_plus_sign:
+- **Search Function**: Looking for a specific transaction? Use the search function to find it in no time. :mag:
+
+## Tech Stack :wrench:
+
+This project is built using **React.js** and **React Hooks**. For styling, I've used **Styled-Components** for modular styling which makes it easier to manage and modify. :art:
+
+## Conclusion :checkered_flag:
+
+This Expense Tracker is more than just a project; it's a demonstration of my skills in modern web development technologies and design principles. I hope you find it useful and enjoyable! :smile:
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
